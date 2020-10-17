@@ -314,13 +314,5 @@ namespace SpriteSheetMaker {
             bitmapSpriteSheet.Save("spritesheet.png", ImageFormat.Png);
             MessageBox.Show(null, "Spritesheet generated!", "Saved", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
-        private void label4_Click(object sender, EventArgs e) {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e) {
-
-        }
     }
 }

@@ -109,7 +109,6 @@
             this.label1.Size = new System.Drawing.Size(54, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Directions";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -135,7 +134,6 @@
             this.label4.Size = new System.Drawing.Size(41, 13);
             this.label4.TabIndex = 8;
             this.label4.Text = "Frames";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // nupFrames
             // 
